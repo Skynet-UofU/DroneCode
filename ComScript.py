@@ -1,3 +1,7 @@
+''' 
+Code Adapted from Dronekit's python examples and adapted to read from the Raspberry Pi's Serial Port
+'''
+
 from __future__ import print_function
 import serial
 import time
